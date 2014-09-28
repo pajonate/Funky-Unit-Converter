@@ -10,4 +10,10 @@
 
 @interface PAN_ViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UILabel *numberOfBillsLabel;
+
+@property (strong, nonatomic) IBOutlet UITextField *numberOFBills;
+
+- (IBAction)COnvertUnits:(UIButton *)sender;
+
 @end

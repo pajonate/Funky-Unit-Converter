@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>34CE0415-030A-431F-9C26-47038FC63EDE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Funky Unit Converter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>744803E2-48B6-4BE9-BD3C-20CC548D3A8D</key>
+		<string>https://github.com/pajonate/Funky-Unit-Converter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Funky Unit Converter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>744803E2-48B6-4BE9-BD3C-20CC548D3A8D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pajonate/Funky-Unit-Converter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>744803E2-48B6-4BE9-BD3C-20CC548D3A8D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>744803E2-48B6-4BE9-BD3C-20CC548D3A8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Funky Unit Converter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
